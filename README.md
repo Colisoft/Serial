@@ -1,6 +1,6 @@
 ### Install via Composer
 
-`composer require thesilvacesar/serial`
+`composer require colisoft/serial`
 
 ### Install manually
 
