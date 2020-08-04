@@ -1,0 +1,31 @@
+{
+    "name": "colisoft/serial",
+    "type": "library",
+    "description": "This class is used for generate serial numbers for softwares paid",
+    "keywords": ["serial", "serial-generator", "php", "php-library", "devtools"],
+    "homepage": "https://github.com/colisoft/Serial",
+    "license": "MIT",
+
+    "require": {
+        "php": ">= 5.6"
+    },
+
+    "autoload": {
+        "psr-0": { "Serial": "lib/" }
+    },
+
+    "authors": [
+        {
+            "name": "Colisoft",
+            "email": "dev@colisoft.com",
+            "homepage": "http://github.com/colisoft",
+            "role": "Developer"
+        },
+        {
+            "name": "César Silva",
+            "email": "cesar98silva@outlook.com",
+            "homepage": "http://github.com/thesilvacesar",
+            "role": "Developer"
+        }
+    ]
+}
